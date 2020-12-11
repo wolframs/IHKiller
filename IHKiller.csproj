@@ -87,6 +87,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Source\SqliteMgmt.cs" />
+    <Compile Include="Source\DataHTMLInterpretation.cs" />
+    <Compile Include="Source\HTMLColumnRepresentation.cs" />
+    <Compile Include="Source\HTMLEntryRepresentation.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
