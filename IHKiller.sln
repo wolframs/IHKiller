@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHKiller", "IHKiller.csproj", "{5421196A-11AE-45CB-9B97-5AA3008CE47D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5421196A-11AE-45CB-9B97-5AA3008CE47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5421196A-11AE-45CB-9B97-5AA3008CE47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5421196A-11AE-45CB-9B97-5AA3008CE47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5421196A-11AE-45CB-9B97-5AA3008CE47D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77445265-F55D-41D2-9668-F7F3564923F0}
+	EndGlobalSection
+EndGlobal
