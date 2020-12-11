@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace IHKiller.Source
 {
-    class HTMLEntryRepresentation
+    public class HTMLEntryRepresentation
     {
+        public string Description;
+        public string TimeInHours;
+        public string ProjectNumber;
+        public string ProjectAssignmentNumber;
+
     }
 }

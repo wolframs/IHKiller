@@ -8,6 +8,7 @@ namespace IHKiller.Source
 {
     class HTMLColumnRepresentation
     {
-
+        public string WorkDate;
+        public List<HTMLEntryRepresentation> ListOfEntries;
     }
 }
